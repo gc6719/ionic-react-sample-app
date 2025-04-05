@@ -63,9 +63,6 @@ www/
 dist/
 build/
 
-# Capacitor/Android/iOS platform folders
-android/
-ios/
 
 # macOS system files
 .DS_Store
